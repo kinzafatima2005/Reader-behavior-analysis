@@ -1,0 +1,151 @@
+book_id,title,author,genre,publication_year,page_count,format_availability,data_source,genre_clean
+B001,Echoes of Time,L. T. Torres,Fantasy,2021,192,Physical,API_Catalog,Fantasy
+B002,Shadows over Data,C. R. Vance,non_fiction,2022,414,Physical,API_Catalog,Non-Fiction
+B003,Echoes of Thinking,B. K. Thorne,Sci-Fi,2007,668,Both,API_Catalog,Science Fiction
+B004,The Art of Time,A. E. Sterling,Non-Fiction,2000,564,Both,API_Catalog,Non-Fiction
+B005,Shadows over Data,I. M. Banks,Sci-Fi,2017,539,Ebook,API_Catalog,Science Fiction
+B006,The Silent Thinking,D. M. Chen,non_fiction,2022,668,Both,API_Catalog,Non-Fiction
+B007,The Art of Data,H. P. Craft,Sci-Fi,1997,182,Physical,API_Catalog,Science Fiction
+B008,Beyond the Time,C. R. Vance,non_fiction,1990,304,Physical,API_Catalog,Non-Fiction
+B009,The Art of Stars,E. J. Harrison,Mystery,2001,375,Ebook,API_Catalog,Mystery
+B010,Shadows over Stars,B. K. Thorne,Non-Fiction,2022,207,Both,API_Catalog,Non-Fiction
+B011,The Art of Mind,F. L. Mercer,Romance,1994,248,Both,API_Catalog,Romance
+B012,Beyond the Time,L. T. Torres,Self-Help,1993,240,Physical,API_Catalog,Self-Help
+B013,Echoes of Empire,B. K. Thorne,Academic,2017,460,Physical,API_Catalog,Academic
+B014,Beyond the Stars,J. K. Rowling,Science Fiction,1984,140,Both,API_Catalog,Science Fiction
+B015,Echoes of Time,K. N. Robinson,Science Fiction,1982,740,Both,API_Catalog,Science Fiction
+B016,Beyond the Mind,D. M. Chen,Non-Fiction,1998,188,Physical,API_Catalog,Non-Fiction
+B017,The Art of Wisdom,H. P. Craft,SciFi,1991,563,Ebook,API_Catalog,Science Fiction
+B018,Chronicles of Eternity,F. L. Mercer,Romance,2021,654,Physical,API_Catalog,Romance
+B019,Shadows over Wisdom,L. T. Torres,SciFi,2003,272,Both,API_Catalog,Science Fiction
+B020,Echoes of Eternity,I. M. Banks,non_fiction,2025,663,Both,API_Catalog,Non-Fiction
+B021,Shadows over Eternity,H. P. Craft,Biography,1984,667,Both,API_Catalog,Biography
+B022,Beyond the Thinking,D. M. Chen,SciFi,2021,433,Both,API_Catalog,Science Fiction
+B023,Chronicles of Time,D. M. Chen,Fiction,2012,332,Both,API_Catalog,Fiction
+B024,Chronicles of Empire,E. J. Harrison,Non-Fiction,1985,228,Ebook,API_Catalog,Non-Fiction
+B025,Shadows over Stars,D. M. Chen,SciFi,2001,544,Both,API_Catalog,Science Fiction
+B026,Guide to Empire,K. N. Robinson,Self-Help,2021,206,Both,API_Catalog,Self-Help
+B027,Principles of Wisdom,C. R. Vance,Science Fiction,2002,533,Ebook,API_Catalog,Science Fiction
+B028,Beyond the Empire,J. K. Rowling,Biography,2001,576,Physical,API_Catalog,Biography
+B029,Chronicles of Data,C. R. Vance,Academic,2016,718,Physical,API_Catalog,Academic
+B030,Guide to Mind,A. E. Sterling,Non-Fiction,2025,491,Physical,API_Catalog,Non-Fiction
+B031,Principles of Eternity,K. N. Robinson,Biography,2002,164,Physical,API_Catalog,Biography
+B032,Echoes of Empire,G. H. Wells,Sci-Fi,2019,716,Both,API_Catalog,Science Fiction
+B033,Guide to Thinking,E. J. Harrison,Academic,1985,739,Ebook,API_Catalog,Academic
+B034,The Silent Mind,K. N. Robinson,Academic,2001,408,Ebook,API_Catalog,Academic
+B035,Beyond the Stars,B. K. Thorne,Fantasy,2022,535,Both,API_Catalog,Fantasy
+B036,The Art of Eternity,H. P. Craft,Fiction,1993,234,Physical,API_Catalog,Fiction
+B037,Beyond the Thinking,C. R. Vance,Academic,1988,353,Both,API_Catalog,Academic
+B038,Echoes of Wisdom,K. N. Robinson,Academic,1993,366,Physical,API_Catalog,Academic
+B039,Shadows over Eternity,F. L. Mercer,Self Help,1998,237,Physical,API_Catalog,Self-Help
+B040,Principles of Thinking,I. M. Banks,Fiction,2007,703,Both,API_Catalog,Fiction
+B041,Chronicles of Solitude,A. E. Sterling,Non-Fiction,1988,294,Both,API_Catalog,Non-Fiction
+B042,Chronicles of Wisdom,D. M. Chen,Fiction,2012,138,Both,API_Catalog,Fiction
+B043,Shadows over Mind,B. K. Thorne,non_fiction,2019,294,Both,API_Catalog,Non-Fiction
+B044,Guide to Mind,I. M. Banks,Self Help,2008,473,Ebook,API_Catalog,Self-Help
+B045,Principles of Eternity,K. N. Robinson,Self-Help,1980,212,Ebook,API_Catalog,Self-Help
+B046,Principles of Wisdom,I. M. Banks,Sci-Fi,1992,679,Both,API_Catalog,Science Fiction
+B047,The Art of Data,I. M. Banks,Self Help,2008,414,Physical,API_Catalog,Self-Help
+B048,Shadows over Wisdom,G. H. Wells,SciFi,2005,136,Physical,API_Catalog,Science Fiction
+B049,Chronicles of Solitude,I. M. Banks,Self-Help,1984,424,Both,API_Catalog,Self-Help
+B050,Echoes of Data,D. M. Chen,Non-Fiction,2018,312,Physical,API_Catalog,Non-Fiction
+B051,Chronicles of Time,J. K. Rowling,Academic,1996,290,Physical,API_Catalog,Academic
+B052,Shadows over Data,A. E. Sterling,Non-Fiction,1982,326,Both,API_Catalog,Non-Fiction
+B053,The Silent Data,B. K. Thorne,Fiction,2022,535,Both,API_Catalog,Fiction
+B054,Chronicles of Mind,I. M. Banks,Science Fiction,1995,144,Both,API_Catalog,Science Fiction
+B055,Beyond the Solitude,D. M. Chen,Academic,1988,212,Both,API_Catalog,Academic
+B056,Principles of Solitude,D. M. Chen,Self Help,1995,544,Ebook,API_Catalog,Self-Help
+B057,Guide to Empire,D. M. Chen,Non-Fiction,2020,318,Ebook,API_Catalog,Non-Fiction
+B058,Echoes of Empire,F. L. Mercer,Biography,1998,548,Ebook,API_Catalog,Biography
+B059,The Art of Solitude,L. T. Torres,Fiction,1990,661,Both,API_Catalog,Fiction
+B060,Echoes of Time,G. H. Wells,non_fiction,1997,554,Physical,API_Catalog,Non-Fiction
+B061,Chronicles of Mind,D. M. Chen,Science Fiction,1981,653,Ebook,API_Catalog,Science Fiction
+B062,Shadows over Thinking,H. P. Craft,Mystery,2019,411,Both,API_Catalog,Mystery
+B063,The Art of Eternity,E. J. Harrison,Self-Help,2024,201,Ebook,API_Catalog,Self-Help
+B064,Shadows over Mind,H. P. Craft,Self Help,2024,454,Physical,API_Catalog,Self-Help
+B065,Echoes of Time,K. N. Robinson,Academic,2008,442,Physical,API_Catalog,Academic
+B066,The Silent Mind,D. M. Chen,Mystery,1993,159,Physical,API_Catalog,Mystery
+B067,The Art of Solitude,H. P. Craft,Science Fiction,1983,626,Ebook,API_Catalog,Science Fiction
+B068,The Art of Time,C. R. Vance,Biography,1990,241,Ebook,API_Catalog,Biography
+B069,The Silent Empire,E. J. Harrison,Self Help,2011,533,Physical,API_Catalog,Self-Help
+B070,Guide to Wisdom,G. H. Wells,non_fiction,1988,467,Both,API_Catalog,Non-Fiction
+B071,Guide to Eternity,D. M. Chen,Fantasy,2013,436,Physical,API_Catalog,Fantasy
+B072,Shadows over Time,J. K. Rowling,non_fiction,2004,255,Ebook,API_Catalog,Non-Fiction
+B073,The Silent Stars,A. E. Sterling,Fiction,2016,487,Both,API_Catalog,Fiction
+B074,Guide to Thinking,I. M. Banks,Mystery,2018,599,Ebook,API_Catalog,Mystery
+B075,The Silent Thinking,B. K. Thorne,Mystery,1996,474,Both,API_Catalog,Mystery
+B076,Echoes of Mind,K. N. Robinson,Science Fiction,2023,660,Ebook,API_Catalog,Science Fiction
+B077,The Art of Mind,J. K. Rowling,Science Fiction,2007,384,Ebook,API_Catalog,Science Fiction
+B078,The Silent Mind,G. H. Wells,SciFi,1985,561,Both,API_Catalog,Science Fiction
+B079,Chronicles of Wisdom,D. M. Chen,SciFi,2002,695,Both,API_Catalog,Science Fiction
+B080,Chronicles of Data,E. J. Harrison,Biography,2021,604,Ebook,API_Catalog,Biography
+B081,Principles of Wisdom,H. P. Craft,Romance,2021,564,Both,API_Catalog,Romance
+B082,Echoes of Time,H. P. Craft,Sci-Fi,1995,639,Ebook,API_Catalog,Science Fiction
+B083,Echoes of Mind,I. M. Banks,Science Fiction,2019,356,Physical,API_Catalog,Science Fiction
+B084,Beyond the Eternity,F. L. Mercer,Non-Fiction,2009,419,Both,API_Catalog,Non-Fiction
+B085,Shadows over Stars,E. J. Harrison,Mystery,1995,712,Ebook,API_Catalog,Mystery
+B086,Guide to Thinking,L. T. Torres,Fantasy,1991,490,Both,API_Catalog,Fantasy
+B087,The Silent Thinking,E. J. Harrison,SciFi,1997,437,Both,API_Catalog,Science Fiction
+B088,Echoes of Eternity,E. J. Harrison,Non-Fiction,2017,624,Physical,API_Catalog,Non-Fiction
+B089,Echoes of Thinking,C. R. Vance,Fantasy,2017,341,Physical,API_Catalog,Fantasy
+B090,Beyond the Data,L. T. Torres,Romance,2009,275,Ebook,API_Catalog,Romance
+B091,Shadows over Wisdom,I. M. Banks,Self-Help,2025,705,Both,API_Catalog,Self-Help
+B092,Beyond the Time,B. K. Thorne,SciFi,1994,326,Both,API_Catalog,Science Fiction
+B093,The Art of Wisdom,A. E. Sterling,Fiction,2002,459,Both,API_Catalog,Fiction
+B094,Chronicles of Eternity,K. N. Robinson,Fantasy,1999,323,Physical,API_Catalog,Fantasy
+B095,Principles of Solitude,I. M. Banks,non_fiction,1987,694,Physical,API_Catalog,Non-Fiction
+B096,The Art of Thinking,A. E. Sterling,Non-Fiction,2000,727,Physical,API_Catalog,Non-Fiction
+B097,Echoes of Eternity,I. M. Banks,Fiction,1984,239,Both,API_Catalog,Fiction
+B098,Chronicles of Thinking,C. R. Vance,Biography,1985,336,Both,API_Catalog,Biography
+B099,Principles of Time,E. J. Harrison,Romance,2019,574,Both,API_Catalog,Romance
+B100,The Silent Stars,D. M. Chen,SciFi,2017,377,Both,API_Catalog,Science Fiction
+B101,Shadows over Mind,F. L. Mercer,Self Help,2012,301,Both,API_Catalog,Self-Help
+B102,The Art of Eternity,D. M. Chen,Mystery,2017,146,Both,API_Catalog,Mystery
+B103,Principles of Empire,A. E. Sterling,Mystery,2022,210,Both,API_Catalog,Mystery
+B104,Chronicles of Empire,K. N. Robinson,non_fiction,1989,570,Both,API_Catalog,Non-Fiction
+B105,Shadows over Wisdom,C. R. Vance,Self Help,2014,470,Physical,API_Catalog,Self-Help
+B106,Echoes of Empire,A. E. Sterling,Self-Help,1992,578,Ebook,API_Catalog,Self-Help
+B107,Shadows over Data,H. P. Craft,Romance,1990,627,Both,API_Catalog,Romance
+B108,Beyond the Data,D. M. Chen,Fiction,2014,717,Physical,API_Catalog,Fiction
+B109,Shadows over Empire,F. L. Mercer,Fantasy,1993,233,Both,API_Catalog,Fantasy
+B110,Echoes of Wisdom,F. L. Mercer,SciFi,2015,326,Ebook,API_Catalog,Science Fiction
+B111,The Art of Thinking,F. L. Mercer,Fiction,2014,634,Both,API_Catalog,Fiction
+B112,Echoes of Wisdom,C. R. Vance,Sci-Fi,2000,244,Ebook,API_Catalog,Science Fiction
+B113,Beyond the Time,B. K. Thorne,Sci-Fi,2004,187,Both,API_Catalog,Science Fiction
+B114,The Art of Stars,L. T. Torres,Self Help,1998,569,Both,API_Catalog,Self-Help
+B115,Chronicles of Empire,J. K. Rowling,Academic,2022,395,Ebook,API_Catalog,Academic
+B116,Echoes of Empire,J. K. Rowling,Science Fiction,2002,741,Ebook,API_Catalog,Science Fiction
+B117,Beyond the Time,L. T. Torres,Biography,2007,310,Physical,API_Catalog,Biography
+B118,The Silent Thinking,I. M. Banks,SciFi,2000,681,Both,API_Catalog,Science Fiction
+B119,Shadows over Stars,G. H. Wells,Non-Fiction,2021,587,Both,API_Catalog,Non-Fiction
+B120,Chronicles of Stars,K. N. Robinson,Non-Fiction,1993,407,Ebook,API_Catalog,Non-Fiction
+B121,Beyond the Thinking,E. J. Harrison,SciFi,1997,274,Both,API_Catalog,Science Fiction
+B122,The Art of Stars,G. H. Wells,non_fiction,1997,590,Both,API_Catalog,Non-Fiction
+B123,Beyond the Thinking,C. R. Vance,Science Fiction,2023,462,Both,API_Catalog,Science Fiction
+B124,The Art of Empire,K. N. Robinson,non_fiction,2004,301,Physical,API_Catalog,Non-Fiction
+B125,Principles of Wisdom,G. H. Wells,Academic,1998,183,Both,API_Catalog,Academic
+B126,The Silent Wisdom,E. J. Harrison,Science Fiction,1980,735,Both,API_Catalog,Science Fiction
+B127,The Art of Stars,H. P. Craft,Self-Help,2001,212,Both,API_Catalog,Self-Help
+B128,Guide to Data,I. M. Banks,Self-Help,1999,553,Both,API_Catalog,Self-Help
+B129,Principles of Mind,E. J. Harrison,Academic,2022,326,Both,API_Catalog,Academic
+B130,Chronicles of Mind,D. M. Chen,SciFi,1999,341,Both,API_Catalog,Science Fiction
+B131,Beyond the Data,D. M. Chen,Mystery,2007,303,Both,API_Catalog,Mystery
+B132,The Silent Time,D. M. Chen,Self-Help,1992,557,Ebook,API_Catalog,Self-Help
+B133,Echoes of Solitude,G. H. Wells,SciFi,1987,269,Both,API_Catalog,Science Fiction
+B134,Shadows over Empire,H. P. Craft,Biography,2008,415,Physical,API_Catalog,Biography
+B135,Shadows over Eternity,K. N. Robinson,non_fiction,1996,459,Both,API_Catalog,Non-Fiction
+B136,The Silent Mind,G. H. Wells,Science Fiction,1995,638,Ebook,API_Catalog,Science Fiction
+B137,Principles of Thinking,H. P. Craft,Fiction,2006,300,Both,API_Catalog,Fiction
+B138,Shadows over Mind,H. P. Craft,Mystery,1988,298,Physical,API_Catalog,Mystery
+B139,Guide to Thinking,I. M. Banks,Sci-Fi,2021,584,Both,API_Catalog,Science Fiction
+B140,Chronicles of Solitude,J. K. Rowling,non_fiction,1987,326,Both,API_Catalog,Non-Fiction
+B141,The Art of Thinking,H. P. Craft,Mystery,2009,485,Ebook,API_Catalog,Mystery
+B142,Guide to Solitude,E. J. Harrison,Self Help,2018,428,Both,API_Catalog,Self-Help
+B143,Shadows over Wisdom,I. M. Banks,Self-Help,1996,183,Both,API_Catalog,Self-Help
+B144,Shadows over Wisdom,H. P. Craft,Non-Fiction,2008,613,Ebook,API_Catalog,Non-Fiction
+B145,Beyond the Data,E. J. Harrison,Romance,1986,483,Physical,API_Catalog,Romance
+B146,Chronicles of Thinking,B. K. Thorne,Mystery,1999,169,Physical,API_Catalog,Mystery
+B147,Principles of Data,G. H. Wells,non_fiction,1989,683,Ebook,API_Catalog,Non-Fiction
+B148,Principles of Data,B. K. Thorne,Biography,1999,703,Ebook,API_Catalog,Biography
+B149,The Art of Stars,I. M. Banks,Self-Help,2002,479,Physical,API_Catalog,Self-Help
+B150,The Art of Time,D. M. Chen,Biography,1987,212,Physical,API_Catalog,Biography

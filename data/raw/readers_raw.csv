@@ -1,0 +1,351 @@
+reader_id,age_group,reading_experience,books_per_month,preferred_format,survey_speed_ppm,owns_ereader,typical_session_min,data_source
+R0001,25-34,Advanced,2,Ebook,0.84,1,15,Survey_Collected
+R0002,55+,Advanced,2,Physical,0.72,0,45,Survey_Collected
+R0003,25-34,Intermediate,1,Physical,0.82,0,45,Survey_Collected
+R0004,35-44,Beginner,1,Ebook,0.57,1,15,Survey_Collected
+R0005,55+,Advanced,1,Ebook,0.51,1,30,Survey_Collected
+R0006,25-34,Beginner,1,No Preference,0.88,0,30,Survey_Collected
+R0007,25-34,Intermediate,6,Physical,0.45,0,60,Survey_Collected
+R0008,25-34,Intermediate,1,Ebook,0.36,1,15,Survey_Collected
+R0009,55+,Advanced,1,Physical,0.69,1,60,Survey_Collected
+R0010,18-24,Intermediate,3,Physical,0.73,0,30,Survey_Collected
+R0011,35-44,Intermediate,1,Ebook,0.75,1,45,Survey_Collected
+R0012,35-44,Intermediate,1,Ebook,0.72,1,30,Survey_Collected
+R0013,18-24,Intermediate,2,Physical,0.82,0,15,Survey_Collected
+R0014,25-34,Beginner,3,No Preference,0.52,0,60,Survey_Collected
+R0015,25-34,Advanced,2,Ebook,0.79,1,60,Survey_Collected
+R0016,18-24,Intermediate,1,Physical,0.56,0,60,Survey_Collected
+R0017,25-34,Intermediate,3,Ebook,0.31,1,30,Survey_Collected
+R0018,18-24,Intermediate,1,Ebook,0.6,1,30,Survey_Collected
+R0019,45-54,Beginner,2,Physical,0.77,0,45,Survey_Collected
+R0020,25-34,Intermediate,1,Ebook,0.71,1,60,Survey_Collected
+R0021,25-34,Beginner,2,Physical,0.37,0,30,Survey_Collected
+R0022,35-44,Intermediate,1,No Preference,0.61,0,60,Survey_Collected
+R0023,45-54,Intermediate,3,Ebook,0.64,1,30,Survey_Collected
+R0024,25-34,Intermediate,3,Ebook,0.72,1,30,Survey_Collected
+R0025,45-54,Intermediate,1,Physical,0.63,0,45,Survey_Collected
+R0026,25-34,Intermediate,3,Physical,0.42,0,45,Survey_Collected
+R0027,18-24,Intermediate,2,Physical,0.64,1,45,Survey_Collected
+R0028,35-44,Intermediate,2,Physical,0.72,0,30,Survey_Collected
+R0029,55+,Advanced,1,No Preference,0.58,1,90,Survey_Collected
+R0030,45-54,Intermediate,2,Physical,0.71,0,60,Survey_Collected
+R0031,35-44,Intermediate,2,Physical,0.76,1,45,Survey_Collected
+R0032,35-44,Intermediate,5,Physical,0.61,1,45,Survey_Collected
+R0033,35-44,Advanced,2,Ebook,0.53,1,45,Survey_Collected
+R0034,25-34,Intermediate,1,Ebook,0.61,1,15,Survey_Collected
+R0035,45-54,Intermediate,2,Physical,0.49,0,45,Survey_Collected
+R0036,25-34,Intermediate,3,Ebook,0.63,1,30,Survey_Collected
+R0037,25-34,Beginner,3,Physical,0.55,0,45,Survey_Collected
+R0038,35-44,Intermediate,4,Physical,0.55,0,30,Survey_Collected
+R0039,35-44,Beginner,1,Physical,0.56,0,45,Survey_Collected
+R0040,25-34,Beginner,1,Physical,0.88,0,15,Survey_Collected
+R0041,25-34,Intermediate,2,Ebook,0.63,1,15,Survey_Collected
+R0042,35-44,Advanced,5,Ebook,0.51,1,90,Survey_Collected
+R0043,45-54,Beginner,1,Physical,0.53,0,60,Survey_Collected
+R0044,18-24,Advanced,5,Physical,0.63,0,30,Survey_Collected
+R0045,35-44,Advanced,6,No Preference,0.72,0,60,Survey_Collected
+R0046,25-34,Advanced,2,Physical,0.72,1,15,Survey_Collected
+R0047,25-34,Advanced,4,No Preference,0.77,1,60,Survey_Collected
+R0048,18-24,Intermediate,3,Physical,0.72,0,30,Survey_Collected
+R0049,35-44,Intermediate,1,Physical,0.54,1,45,Survey_Collected
+R0050,18-24,Beginner,1,No Preference,0.63,1,60,Survey_Collected
+R0051,55+,Advanced,3,Physical,0.55,0,15,Survey_Collected
+R0052,18-24,Beginner,3,Ebook,0.6,1,30,Survey_Collected
+R0053,45-54,Beginner,1,No Preference,0.61,1,15,Survey_Collected
+R0054,35-44,Advanced,6,Ebook,0.75,1,30,Survey_Collected
+R0055,55+,Advanced,3,Ebook,0.75,1,15,Survey_Collected
+R0056,55+,Advanced,4,Ebook,0.33,1,60,Survey_Collected
+R0057,45-54,Advanced,4,Ebook,0.59,1,60,Survey_Collected
+R0058,55+,Beginner,2,Ebook,0.56,1,60,Survey_Collected
+R0059,25-34,Intermediate,1,Physical,0.64,1,90,Survey_Collected
+R0060,35-44,Advanced,3,No Preference,0.65,1,45,Survey_Collected
+R0061,25-34,Intermediate,1,Ebook,0.64,1,60,Survey_Collected
+R0062,25-34,Advanced,3,Ebook,0.91,1,15,Survey_Collected
+R0063,35-44,Intermediate,1,Ebook,0.34,1,45,Survey_Collected
+R0064,45-54,Intermediate,5,Ebook,0.82,1,60,Survey_Collected
+R0065,25-34,Intermediate,3,Ebook,0.58,1,30,Survey_Collected
+R0066,18-24,Beginner,1,Physical,0.59,0,60,Survey_Collected
+R0067,25-34,Intermediate,1,Physical,0.52,0,15,Survey_Collected
+R0068,18-24,Intermediate,2,Physical,0.48,0,60,Survey_Collected
+R0069,35-44,Beginner,1,Ebook,0.73,1,45,Survey_Collected
+R0070,18-24,Beginner,1,Physical,0.51,0,45,Survey_Collected
+R0071,35-44,Beginner,2,Physical,0.45,0,45,Survey_Collected
+R0072,25-34,Intermediate,1,Physical,0.61,0,30,Survey_Collected
+R0073,25-34,Beginner,2,Ebook,0.47,1,45,Survey_Collected
+R0074,35-44,Intermediate,1,Physical,0.6,0,30,Survey_Collected
+R0075,35-44,Intermediate,3,Physical,0.53,0,30,Survey_Collected
+R0076,25-34,Beginner,1,Ebook,0.51,1,45,Survey_Collected
+R0077,25-34,Advanced,5,Physical,0.68,0,45,Survey_Collected
+R0078,25-34,Advanced,3,Physical,0.63,0,45,Survey_Collected
+R0079,25-34,Intermediate,2,Physical,0.47,0,90,Survey_Collected
+R0080,25-34,Advanced,5,Physical,0.54,1,60,Survey_Collected
+R0081,55+,Beginner,1,Ebook,0.61,1,45,Survey_Collected
+R0082,45-54,Beginner,1,Ebook,0.58,1,30,Survey_Collected
+R0083,18-24,Advanced,5,Ebook,0.5,1,30,Survey_Collected
+R0084,35-44,Intermediate,4,Physical,0.27,0,60,Survey_Collected
+R0085,35-44,Intermediate,5,Physical,0.44,1,15,Survey_Collected
+R0086,35-44,Advanced,3,Ebook,0.48,1,30,Survey_Collected
+R0087,25-34,Advanced,5,Physical,0.48,0,60,Survey_Collected
+R0088,35-44,Intermediate,2,Ebook,0.41,1,45,Survey_Collected
+R0089,35-44,Beginner,2,Ebook,0.63,1,30,Survey_Collected
+R0090,35-44,Intermediate,4,Physical,0.67,1,60,Survey_Collected
+R0091,18-24,Advanced,3,Ebook,0.76,1,15,Survey_Collected
+R0092,25-34,Intermediate,2,Ebook,0.51,1,45,Survey_Collected
+R0093,25-34,Beginner,1,Ebook,0.6,1,45,Survey_Collected
+R0094,45-54,Intermediate,1,Ebook,0.4,1,45,Survey_Collected
+R0095,18-24,Advanced,3,Physical,0.5,1,30,Survey_Collected
+R0096,45-54,Beginner,1,Physical,0.62,0,45,Survey_Collected
+R0097,18-24,Advanced,4,Ebook,0.64,1,60,Survey_Collected
+R0098,25-34,Intermediate,1,Ebook,0.56,1,30,Survey_Collected
+R0099,35-44,Intermediate,1,Physical,0.61,0,45,Survey_Collected
+R0100,25-34,Beginner,3,Physical,0.58,0,30,Survey_Collected
+R0101,25-34,Advanced,1,Physical,0.35,1,60,Survey_Collected
+R0102,25-34,Intermediate,2,Physical,0.86,0,45,Survey_Collected
+R0103,25-34,Intermediate,1,No Preference,0.59,1,60,Survey_Collected
+R0104,25-34,Beginner,1,Physical,0.77,0,30,Survey_Collected
+R0105,45-54,Advanced,2,Ebook,0.36,1,45,Survey_Collected
+R0106,35-44,Advanced,1,Physical,0.68,0,60,Survey_Collected
+R0107,45-54,Intermediate,1,Ebook,0.58,1,30,Survey_Collected
+R0108,25-34,Beginner,1,Physical,0.72,0,30,Survey_Collected
+R0109,25-34,Intermediate,2,Physical,0.91,1,45,Survey_Collected
+R0110,25-34,Beginner,1,Physical,0.55,0,45,Survey_Collected
+R0111,25-34,Advanced,2,Physical,0.51,0,60,Survey_Collected
+R0112,35-44,Intermediate,2,Physical,0.87,1,30,Survey_Collected
+R0113,55+,Intermediate,5,Physical,0.53,0,30,Survey_Collected
+R0114,55+,Advanced,5,Physical,0.69,0,30,Survey_Collected
+R0115,55+,Advanced,5,No Preference,0.39,0,15,Survey_Collected
+R0116,35-44,Intermediate,1,Ebook,0.68,1,30,Survey_Collected
+R0117,25-34,Advanced,4,Physical,0.61,1,60,Survey_Collected
+R0118,55+,Intermediate,2,Ebook,0.76,1,60,Survey_Collected
+R0119,55+,Advanced,3,Physical,0.4,0,30,Survey_Collected
+R0120,18-24,Beginner,1,No Preference,0.46,0,30,Survey_Collected
+R0121,55+,Advanced,5,Physical,0.62,0,45,Survey_Collected
+R0122,25-34,Beginner,1,Physical,0.67,1,30,Survey_Collected
+R0123,18-24,Advanced,6,Ebook,0.52,1,30,Survey_Collected
+R0124,25-34,Intermediate,1,Ebook,0.69,1,60,Survey_Collected
+R0125,25-34,Beginner,4,Ebook,0.57,1,30,Survey_Collected
+R0126,25-34,Intermediate,1,Ebook,0.48,1,30,Survey_Collected
+R0127,35-44,Beginner,1,Ebook,0.78,1,30,Survey_Collected
+R0128,35-44,Intermediate,8,Physical,0.65,0,60,Survey_Collected
+R0129,18-24,Advanced,1,Ebook,0.57,1,30,Survey_Collected
+R0130,35-44,Beginner,2,Ebook,0.62,1,30,Survey_Collected
+R0131,35-44,Advanced,4,Ebook,0.64,1,90,Survey_Collected
+R0132,25-34,Intermediate,1,No Preference,0.84,1,45,Survey_Collected
+R0133,18-24,Intermediate,1,Ebook,0.33,1,45,Survey_Collected
+R0134,18-24,Advanced,4,No Preference,0.74,0,30,Survey_Collected
+R0135,25-34,Advanced,4,Ebook,0.67,1,45,Survey_Collected
+R0136,25-34,Beginner,1,Ebook,0.52,1,90,Survey_Collected
+R0137,18-24,Intermediate,2,No Preference,0.73,0,30,Survey_Collected
+R0138,18-24,Intermediate,3,Physical,0.57,1,60,Survey_Collected
+R0139,35-44,Advanced,2,Ebook,0.63,1,60,Survey_Collected
+R0140,25-34,Beginner,1,Physical,0.71,0,45,Survey_Collected
+R0141,18-24,Intermediate,2,Physical,0.53,0,30,Survey_Collected
+R0142,35-44,Advanced,1,Ebook,0.24,1,30,Survey_Collected
+R0143,25-34,Advanced,4,Physical,0.63,0,30,Survey_Collected
+R0144,18-24,Beginner,1,Physical,0.29,0,45,Survey_Collected
+R0145,45-54,Beginner,1,Physical,0.81,0,60,Survey_Collected
+R0146,18-24,Intermediate,5,Ebook,0.74,1,60,Survey_Collected
+R0147,25-34,Advanced,3,Ebook,0.45,1,60,Survey_Collected
+R0148,35-44,Intermediate,4,Ebook,0.52,1,30,Survey_Collected
+R0149,35-44,Beginner,1,Physical,0.76,1,45,Survey_Collected
+R0150,25-34,Intermediate,1,Physical,0.58,1,45,Survey_Collected
+R0151,25-34,Intermediate,3,Ebook,0.72,1,30,Survey_Collected
+R0152,35-44,Intermediate,1,Ebook,0.63,1,45,Survey_Collected
+R0153,45-54,Beginner,1,Physical,0.6,0,60,Survey_Collected
+R0154,25-34,Intermediate,1,Physical,0.78,0,90,Survey_Collected
+R0155,25-34,Intermediate,1,Physical,0.59,0,15,Survey_Collected
+R0156,18-24,Intermediate,2,Physical,0.67,0,45,Survey_Collected
+R0157,18-24,Beginner,2,Physical,0.66,0,60,Survey_Collected
+R0158,25-34,Beginner,1,Physical,0.66,0,60,Survey_Collected
+R0159,18-24,Beginner,1,Ebook,0.51,1,30,Survey_Collected
+R0160,55+,Advanced,7,Physical,0.6,0,30,Survey_Collected
+R0161,35-44,Beginner,1,Ebook,0.51,1,60,Survey_Collected
+R0162,18-24,Intermediate,5,Ebook,0.89,1,15,Survey_Collected
+R0163,55+,Intermediate,2,Ebook,0.48,1,45,Survey_Collected
+R0164,55+,Beginner,1,No Preference,0.64,1,45,Survey_Collected
+R0165,35-44,Advanced,7,Physical,0.57,0,30,Survey_Collected
+R0166,25-34,Intermediate,1,Physical,0.6,0,30,Survey_Collected
+R0167,18-24,Intermediate,2,Ebook,0.61,1,45,Survey_Collected
+R0168,18-24,Intermediate,2,Physical,0.77,0,60,Survey_Collected
+R0169,45-54,Intermediate,1,No Preference,0.71,0,60,Survey_Collected
+R0170,18-24,Advanced,2,Physical,0.64,0,30,Survey_Collected
+R0171,45-54,Intermediate,2,Physical,0.45,0,45,Survey_Collected
+R0172,18-24,Intermediate,1,Ebook,0.57,1,45,Survey_Collected
+R0173,25-34,Advanced,2,Ebook,0.67,1,45,Survey_Collected
+R0174,45-54,Advanced,5,Physical,0.62,0,60,Survey_Collected
+R0175,25-34,Advanced,3,Physical,0.42,1,60,Survey_Collected
+R0176,25-34,Beginner,2,Physical,0.65,0,30,Survey_Collected
+R0177,35-44,Intermediate,1,No Preference,0.38,1,45,Survey_Collected
+R0178,55+,Beginner,2,Physical,0.31,0,15,Survey_Collected
+R0179,45-54,Beginner,1,Physical,0.51,0,15,Survey_Collected
+R0180,45-54,Beginner,2,Ebook,0.57,1,30,Survey_Collected
+R0181,25-34,Intermediate,3,No Preference,0.61,1,30,Survey_Collected
+R0182,35-44,Beginner,1,Ebook,0.5,1,45,Survey_Collected
+R0183,35-44,Intermediate,3,Ebook,0.61,1,60,Survey_Collected
+R0184,25-34,Intermediate,1,Physical,0.72,1,60,Survey_Collected
+R0185,35-44,Beginner,1,Physical,0.49,1,45,Survey_Collected
+R0186,25-34,Intermediate,5,Physical,0.56,0,60,Survey_Collected
+R0187,18-24,Advanced,5,Physical,0.42,0,30,Survey_Collected
+R0188,55+,Intermediate,1,Ebook,0.55,1,60,Survey_Collected
+R0189,55+,Intermediate,1,Ebook,0.22,1,30,Survey_Collected
+R0190,25-34,Beginner,1,Physical,0.61,1,45,Survey_Collected
+R0191,55+,Intermediate,2,Physical,0.42,0,45,Survey_Collected
+R0192,18-24,Beginner,1,Ebook,0.69,1,90,Survey_Collected
+R0193,18-24,Intermediate,1,No Preference,0.54,0,45,Survey_Collected
+R0194,18-24,Intermediate,3,No Preference,0.49,0,45,Survey_Collected
+R0195,18-24,Advanced,2,Physical,0.68,1,15,Survey_Collected
+R0196,25-34,Intermediate,2,Physical,0.71,0,30,Survey_Collected
+R0197,18-24,Beginner,3,No Preference,0.31,1,15,Survey_Collected
+R0198,25-34,Beginner,1,Physical,0.91,0,30,Survey_Collected
+R0199,25-34,Advanced,5,Ebook,0.59,1,45,Survey_Collected
+R0200,35-44,Advanced,2,Ebook,0.74,1,30,Survey_Collected
+R0201,35-44,Intermediate,1,Ebook,0.64,1,15,Survey_Collected
+R0202,18-24,Beginner,1,No Preference,0.53,0,30,Survey_Collected
+R0203,35-44,Intermediate,1,Physical,0.78,0,15,Survey_Collected
+R0204,18-24,Advanced,4,Physical,0.71,0,60,Survey_Collected
+R0205,35-44,Intermediate,4,Physical,0.83,1,45,Survey_Collected
+R0206,18-24,Intermediate,1,No Preference,0.68,0,45,Survey_Collected
+R0207,35-44,Advanced,1,Physical,0.65,0,60,Survey_Collected
+R0208,45-54,Advanced,6,No Preference,0.72,0,45,Survey_Collected
+R0209,55+,Advanced,1,Physical,0.72,0,45,Survey_Collected
+R0210,45-54,Intermediate,2,Ebook,0.69,1,45,Survey_Collected
+R0211,35-44,Advanced,3,Ebook,0.72,1,90,Survey_Collected
+R0212,18-24,Intermediate,1,Ebook,0.46,1,45,Survey_Collected
+R0213,35-44,Beginner,2,Physical,0.48,1,30,Survey_Collected
+R0214,25-34,Beginner,2,Physical,0.7,0,45,Survey_Collected
+R0215,45-54,Intermediate,2,Physical,0.37,1,15,Survey_Collected
+R0216,35-44,Intermediate,1,Ebook,0.79,1,45,Survey_Collected
+R0217,35-44,Intermediate,3,Ebook,0.48,1,15,Survey_Collected
+R0218,25-34,Advanced,3,Ebook,0.6,1,30,Survey_Collected
+R0219,25-34,Beginner,4,Physical,0.88,1,30,Survey_Collected
+R0220,25-34,Advanced,3,Physical,0.44,0,15,Survey_Collected
+R0221,18-24,Advanced,4,Physical,0.68,0,45,Survey_Collected
+R0222,18-24,Beginner,1,Ebook,0.52,1,45,Survey_Collected
+R0223,35-44,Beginner,1,Ebook,0.71,1,90,Survey_Collected
+R0224,18-24,Beginner,1,Physical,0.78,0,60,Survey_Collected
+R0225,25-34,Intermediate,2,Ebook,0.52,1,15,Survey_Collected
+R0226,45-54,Beginner,1,Ebook,0.6,1,60,Survey_Collected
+R0227,18-24,Intermediate,2,No Preference,0.37,1,90,Survey_Collected
+R0228,25-34,Intermediate,4,Physical,0.52,0,30,Survey_Collected
+R0229,25-34,Intermediate,2,Ebook,0.66,1,15,Survey_Collected
+R0230,35-44,Intermediate,2,Physical,0.7,1,60,Survey_Collected
+R0231,35-44,Intermediate,2,Physical,0.81,0,15,Survey_Collected
+R0232,35-44,Beginner,1,Physical,0.61,0,60,Survey_Collected
+R0233,25-34,Beginner,2,Ebook,0.65,1,60,Survey_Collected
+R0234,18-24,Beginner,2,Ebook,0.6,1,30,Survey_Collected
+R0235,35-44,Advanced,4,Physical,0.65,0,60,Survey_Collected
+R0236,25-34,Advanced,3,Ebook,0.81,1,60,Survey_Collected
+R0237,45-54,Intermediate,1,No Preference,0.46,0,45,Survey_Collected
+R0238,18-24,Advanced,6,Ebook,0.66,1,60,Survey_Collected
+R0239,25-34,Beginner,1,Physical,0.69,0,45,Survey_Collected
+R0240,18-24,Advanced,5,Ebook,0.65,1,30,Survey_Collected
+R0241,25-34,Advanced,3,Physical,0.52,0,45,Survey_Collected
+R0242,35-44,Intermediate,4,Ebook,0.54,1,30,Survey_Collected
+R0243,35-44,Intermediate,1,Ebook,0.64,1,30,Survey_Collected
+R0244,45-54,Intermediate,2,Ebook,0.56,1,30,Survey_Collected
+R0245,18-24,Intermediate,5,Ebook,0.64,1,45,Survey_Collected
+R0246,18-24,Intermediate,4,Ebook,0.7,1,45,Survey_Collected
+R0247,18-24,Intermediate,2,No Preference,0.63,1,15,Survey_Collected
+R0248,55+,Intermediate,3,Physical,0.65,1,45,Survey_Collected
+R0249,18-24,Beginner,1,Physical,0.36,0,45,Survey_Collected
+R0250,18-24,Advanced,4,Ebook,0.72,1,30,Survey_Collected
+R0251,35-44,Beginner,3,Ebook,0.65,1,30,Survey_Collected
+R0252,18-24,Advanced,5,Ebook,0.77,1,45,Survey_Collected
+R0253,35-44,Intermediate,3,Ebook,0.45,1,45,Survey_Collected
+R0254,18-24,Intermediate,5,Ebook,0.72,1,15,Survey_Collected
+R0255,25-34,Intermediate,1,Ebook,0.54,1,90,Survey_Collected
+R0256,25-34,Intermediate,2,Physical,0.5,0,15,Survey_Collected
+R0257,18-24,Beginner,1,Physical,0.76,0,45,Survey_Collected
+R0258,25-34,Advanced,2,Physical,0.51,0,45,Survey_Collected
+R0259,45-54,Intermediate,1,Ebook,0.49,1,45,Survey_Collected
+R0260,25-34,Advanced,5,Ebook,0.37,1,45,Survey_Collected
+R0261,18-24,Intermediate,2,Physical,0.48,0,30,Survey_Collected
+R0262,25-34,Advanced,1,Physical,0.27,1,45,Survey_Collected
+R0263,35-44,Intermediate,1,Ebook,0.71,1,45,Survey_Collected
+R0264,45-54,Intermediate,1,Physical,0.63,0,30,Survey_Collected
+R0265,18-24,Intermediate,2,Physical,0.62,0,45,Survey_Collected
+R0266,35-44,Advanced,3,Ebook,0.45,1,60,Survey_Collected
+R0267,25-34,Advanced,5,Ebook,0.84,1,45,Survey_Collected
+R0268,25-34,Beginner,1,Physical,0.72,1,30,Survey_Collected
+R0269,18-24,Beginner,1,Ebook,0.58,1,30,Survey_Collected
+R0270,35-44,Intermediate,2,Physical,0.49,0,30,Survey_Collected
+R0271,25-34,Beginner,2,Ebook,0.59,1,30,Survey_Collected
+R0272,18-24,Advanced,3,Ebook,0.54,1,30,Survey_Collected
+R0273,45-54,Intermediate,3,Ebook,0.36,1,45,Survey_Collected
+R0274,18-24,Intermediate,3,Ebook,0.43,1,30,Survey_Collected
+R0275,18-24,Beginner,1,Physical,0.61,0,45,Survey_Collected
+R0276,18-24,Intermediate,4,Ebook,0.67,1,45,Survey_Collected
+R0277,35-44,Beginner,1,Physical,1.0,0,90,Survey_Collected
+R0278,45-54,Intermediate,1,Ebook,0.37,1,60,Survey_Collected
+R0279,18-24,Advanced,5,Physical,0.64,0,30,Survey_Collected
+R0280,25-34,Advanced,8,Physical,0.76,1,30,Survey_Collected
+R0281,18-24,Advanced,4,Physical,0.95,1,15,Survey_Collected
+R0282,25-34,Intermediate,1,Ebook,0.63,1,30,Survey_Collected
+R0283,25-34,Advanced,2,Physical,0.52,0,45,Survey_Collected
+R0284,45-54,Intermediate,6,Physical,0.73,0,15,Survey_Collected
+R0285,25-34,Intermediate,1,Physical,0.32,0,45,Survey_Collected
+R0286,35-44,Intermediate,1,Physical,0.63,0,30,Survey_Collected
+R0287,25-34,Intermediate,3,Ebook,0.37,1,45,Survey_Collected
+R0288,55+,Intermediate,1,Physical,0.58,1,45,Survey_Collected
+R0289,25-34,Intermediate,1,Ebook,0.43,1,45,Survey_Collected
+R0290,45-54,Advanced,3,Ebook,0.72,1,45,Survey_Collected
+R0291,25-34,Beginner,1,Ebook,0.48,1,15,Survey_Collected
+R0292,25-34,Beginner,1,Physical,0.77,1,15,Survey_Collected
+R0293,25-34,Intermediate,1,Physical,0.4,1,30,Survey_Collected
+R0294,35-44,Advanced,3,Physical,0.48,0,45,Survey_Collected
+R0295,25-34,Intermediate,1,Ebook,0.68,1,45,Survey_Collected
+R0296,55+,Advanced,2,No Preference,0.48,1,45,Survey_Collected
+R0297,18-24,Intermediate,2,No Preference,0.52,0,15,Survey_Collected
+R0298,35-44,Intermediate,2,Ebook,0.42,1,45,Survey_Collected
+R0299,45-54,Beginner,1,Ebook,0.66,1,45,Survey_Collected
+R0300,25-34,Intermediate,2,Physical,0.46,0,30,Survey_Collected
+R0301,18-24,Beginner,1,Ebook,0.37,1,15,Survey_Collected
+R0302,18-24,Intermediate,2,Ebook,0.43,1,15,Survey_Collected
+R0303,25-34,Advanced,6,Ebook,0.56,1,30,Survey_Collected
+R0304,18-24,Intermediate,2,Ebook,0.63,1,15,Survey_Collected
+R0305,25-34,Intermediate,1,No Preference,0.63,1,45,Survey_Collected
+R0306,25-34,Intermediate,1,Physical,0.64,0,45,Survey_Collected
+R0307,25-34,Beginner,5,No Preference,0.41,0,30,Survey_Collected
+R0308,35-44,Advanced,3,Ebook,0.51,1,45,Survey_Collected
+R0309,25-34,Intermediate,2,No Preference,0.55,0,15,Survey_Collected
+R0310,35-44,Intermediate,2,Physical,0.62,0,45,Survey_Collected
+R0311,18-24,Intermediate,2,Ebook,0.39,1,15,Survey_Collected
+R0312,45-54,Advanced,6,Ebook,0.56,1,90,Survey_Collected
+R0313,35-44,Intermediate,1,Physical,0.62,0,60,Survey_Collected
+R0314,45-54,Advanced,4,No Preference,0.61,1,30,Survey_Collected
+R0315,35-44,Intermediate,3,Physical,0.41,0,60,Survey_Collected
+R0316,35-44,Beginner,1,Physical,0.69,0,45,Survey_Collected
+R0317,18-24,Intermediate,2,Physical,0.5,0,60,Survey_Collected
+R0318,45-54,Advanced,4,Ebook,0.8,1,45,Survey_Collected
+R0319,25-34,Beginner,1,No Preference,0.37,0,15,Survey_Collected
+R0320,18-24,Advanced,6,Physical,0.6,0,60,Survey_Collected
+R0321,55+,Advanced,4,Physical,0.52,1,30,Survey_Collected
+R0322,18-24,Beginner,1,No Preference,0.45,1,60,Survey_Collected
+R0323,25-34,Intermediate,1,Ebook,0.62,1,30,Survey_Collected
+R0324,25-34,Beginner,1,Physical,0.76,0,45,Survey_Collected
+R0325,18-24,Advanced,2,Physical,0.78,1,45,Survey_Collected
+R0326,25-34,Intermediate,2,Ebook,0.72,1,60,Survey_Collected
+R0327,45-54,Advanced,3,Ebook,0.87,1,30,Survey_Collected
+R0328,35-44,Intermediate,1,No Preference,0.66,0,45,Survey_Collected
+R0329,25-34,Intermediate,1,Ebook,0.9,1,30,Survey_Collected
+R0330,55+,Advanced,7,Ebook,1.07,1,30,Survey_Collected
+R0331,25-34,Intermediate,5,No Preference,0.44,1,45,Survey_Collected
+R0332,25-34,Beginner,1,Ebook,0.54,1,45,Survey_Collected
+R0333,55+,Intermediate,4,Physical,0.87,1,30,Survey_Collected
+R0334,45-54,Intermediate,1,Physical,0.61,1,30,Survey_Collected
+R0335,25-34,Intermediate,2,Ebook,0.77,1,60,Survey_Collected
+R0336,45-54,Beginner,1,Ebook,0.89,1,45,Survey_Collected
+R0337,25-34,Intermediate,3,Physical,0.52,0,30,Survey_Collected
+R0338,18-24,Intermediate,3,No Preference,0.34,0,60,Survey_Collected
+R0339,18-24,Intermediate,2,Physical,0.4,1,30,Survey_Collected
+R0340,25-34,Intermediate,2,Ebook,0.61,1,30,Survey_Collected
+R0341,25-34,Intermediate,3,Physical,0.59,0,45,Survey_Collected
+R0342,35-44,Intermediate,1,Physical,0.63,1,30,Survey_Collected
+R0343,35-44,Intermediate,1,Ebook,0.75,1,60,Survey_Collected
+R0344,18-24,Beginner,2,No Preference,0.64,0,45,Survey_Collected
+R0345,35-44,Intermediate,2,Physical,0.58,1,30,Survey_Collected
+R0346,35-44,Advanced,1,Physical,0.67,0,15,Survey_Collected
+R0347,35-44,Advanced,3,Physical,0.86,0,30,Survey_Collected
+R0348,35-44,Beginner,2,Physical,0.81,0,30,Survey_Collected
+R0349,25-34,Beginner,1,Physical,0.84,0,90,Survey_Collected
+R0350,45-54,Advanced,6,Ebook,0.75,1,15,Survey_Collected
