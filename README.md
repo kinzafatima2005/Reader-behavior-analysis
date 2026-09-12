@@ -1,23 +1,22 @@
-# Reading Behavior Analytics: E-Books vs Physical Books 📚
+ Reading Behavior Analytics: E-Books vs Physical Books 
 
 A portfolio-level Data Science & Machine Learning project investigating quantitative differences in reading behavior between digital e-books and physical printed books using multi-level session logs, statistical hypothesis testing, explainable AI, unsupervised clustering, SQLite queries, and an interactive Streamlit dashboard.
 
 ---
 
-## 📌 Key Findings
+ Key Findings
 
 ```text
 Key Findings Summary
 ──────────────────────────────────────────────────────────────────────────
-📱 E-books were associated with higher median pages-per-minute (PPM) rates
-📖 Physical book sessions were associated with longer focus durations
-🌙 Evening (18:00 - 22:00) emerged as the most active reading period
-📚 Higher reading frequency was associated with higher book completion rates
+ E-books were associated with higher median pages-per-minute (PPM) rates
+ Physical book sessions were associated with longer focus durations
+ Evening (18:00 - 22:00) emerged as the most active reading period
+ Higher reading frequency was associated with higher book completion rates
 ```
 
 ---
-
-## 🌟 Key Highlights & Features
+ Key Highlights & Features
 
 - **End-to-End Data Pipeline:** From raw session telemetry and survey profiles (`data/raw/`) to cleaned schemas, outlier management, and SQLite database storage (`database/reading_data.db`).
 - **Leak-Free ML Pipeline:** Predicts book completion (`completed = 0/1`) strictly using chronological expanding prior features, fitted with scaling and baseline controls on training splits.
@@ -30,7 +29,7 @@ Key Findings Summary
 
 ---
 
-## 🏗️ Project Architecture
+ Project Architecture
 
 ```text
 reading-behavior-analytics/
@@ -83,7 +82,7 @@ reading-behavior-analytics/
 
 ---
 
-## 📊 Model Evaluation Summary
+ Model Evaluation Summary
 
 Evaluating classifiers on a 20% holdout test dataset (2,657 sessions) using **leak-free prior features**:
 
@@ -100,7 +99,7 @@ Evaluating classifiers on a 20% holdout test dataset (2,657 sessions) using **le
 
 ---
 
-## 🚀 Quickstart & How to Run
+ Quickstart & How to Run
 
 ### 1. Installation
 Clone the repository and install dependencies:
@@ -138,6 +137,6 @@ pytest tests/ -v
 
 ---
 
-## 📜 Research Report & Transparency
+ Research Report & Transparency
 - Read the full 16-chapter data science report in [docs/research_report.md](file:///c:/Users/SMART%20TECH/Desktop/reader/docs/research_report.md).
 - **Synthetic Data Disclaimer:** Synthetic reader profiles and session telemetry were generated to simulate a realistic multi-level reading dataset. Book metadata is also programmatically generated for the prototype.
